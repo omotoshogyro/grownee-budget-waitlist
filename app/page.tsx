@@ -139,31 +139,31 @@ export default function Home() {
             <div className="hidden md:flex items-center space-x-8">
               <a
                 href="#"
-                className="text-gray-200 hover:text-white transition-colors duration-300"
+                className="text-[#FFFFFF] hover:text-white transition-colors duration-300"
               >
                 Products
               </a>
               <a
                 href="#"
-                className="text-gray-200 hover:text-white transition-colors duration-300"
+                className="text-[#989DA3]  transition-colors duration-300"
               >
                 Grownee AI
               </a>
               <a
                 href="#"
-                className="text-gray-200 hover:text-white transition-colors duration-300"
+                className="text-[#989DA3]  transition-colors duration-300"
               >
                 Learn
               </a>
               <a
                 href="#"
-                className="text-gray-200 hover:text-white transition-colors duration-300"
+                className="text-[#989DA3] transition-colors duration-300"
               >
                 Community
               </a>
               <a
                 href="#"
-                className="text-gray-200 hover:text-white transition-colors duration-300"
+                className="text-[#989DA3]  transition-colors duration-300"
               >
                 About us
               </a>
