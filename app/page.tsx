@@ -301,8 +301,7 @@ export default function Home() {
                   <div>
                     <h3 className="font-bold mb-2">Set your Budget Value</h3>
                     <p className="text-gray-600">
-                      From fixed deposits to mutual funds, Grownee helps you
-                      invest with clarity.
+                      Define your total monthly budget based on your income and financial goals.
                     </p>
                   </div>
                 </div>
@@ -313,8 +312,7 @@ export default function Home() {
                   <div>
                     <h3 className="font-bold mb-2">Create Budget Category</h3>
                     <p className="text-gray-600">
-                      From fixed deposits to mutual funds, Grownee helps you
-                      invest with clarity.
+                     Organize your spending into categories like groceries, rent, transport, and entertainment.
                     </p>
                   </div>
                 </div>
@@ -325,8 +323,7 @@ export default function Home() {
                   <div>
                     <h3 className="font-bold mb-2">Log your Budget Manually</h3>
                     <p className="text-gray-600">
-                      From fixed deposits to mutual funds, Grownee helps you
-                      invest with clarity.
+                      Track your expenses as they happen or import transactions from your bank account.
                     </p>
                   </div>
                 </div>
@@ -351,10 +348,9 @@ export default function Home() {
                     1
                   </div>
                   <div>
-                    <h3 className="font-bold mb-2">Set your Budget Value</h3>
+                    <h3 className="font-bold mb-2">Set your Expected Income </h3>
                     <p className="text-gray-600">
-                      From fixed deposits to mutual funds, Grownee helps you
-                      invest with clarity.
+                     Enter your expected monthly income from all sources including salary, freelance, and side hustles.
                     </p>
                   </div>
                 </div>
@@ -363,10 +359,9 @@ export default function Home() {
                     2
                   </div>
                   <div>
-                    <h3 className="font-bold mb-2">Create Budget Category</h3>
+                    <h3 className="font-bold mb-2">Create Income Category</h3>
                     <p className="text-gray-600">
-                      From fixed deposits to mutual funds, Grownee helps you
-                      invest with clarity.
+                      Categorize your income streams to understand which sources contribute most to your earnings.
                     </p>
                   </div>
                 </div>
@@ -375,10 +370,9 @@ export default function Home() {
                     3
                   </div>
                   <div>
-                    <h3 className="font-bold mb-2">Log your Budget Manually</h3>
+                    <h3 className="font-bold mb-2">Log your Income Manually</h3>
                     <p className="text-gray-600">
-                      From fixed deposits to mutual funds, Grownee helps you
-                      invest with clarity.
+                      Record income as you receive it or sync with your bank for automatic tracking.
                     </p>
                   </div>
                 </div>
@@ -500,9 +494,9 @@ export default function Home() {
                   className="h-7"
                 />
               </div>
-              <p className="text-sm text-gray-600">
+              {/* <p className="text-sm text-gray-600">
                 1004, Akobo Ojurin, Victoria Island, Lagos Nigeria
-              </p>
+              </p> */}
             </div>
             <div>
               <h4 className="font-semibold mb-4">Budget</h4>
