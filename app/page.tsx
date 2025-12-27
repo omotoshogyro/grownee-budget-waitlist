@@ -90,7 +90,7 @@ export default function Home() {
 
       // Make API request
       const response = await axios.post(
-        "https://grownee.onrender.com/api/v1/waitlist", // Add your endpoint
+        "https://grownee-15cr.onrender.com/api/v1/waitlist", // Add your endpoint
         {
           name: fullName,
           email: formData.email,
